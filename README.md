@@ -37,4 +37,4 @@ Tasks are stored in this browser on this device using `localStorage`. The app do
 
 ## Deployment
 
-The project is configured for GitHub Pages at the `/todo-app/` path. The workflow in `.github/workflows/deploy.yml` builds and deploys the app when changes are pushed to `main` or when manually triggered in GitHub Actions.
+The project is configured for GitHub Pages at the `/to-do-application/` path. The workflow in `.github/workflows/deploy.yml` builds and deploys the app when changes are pushed to `main` or when manually triggered in GitHub Actions.
